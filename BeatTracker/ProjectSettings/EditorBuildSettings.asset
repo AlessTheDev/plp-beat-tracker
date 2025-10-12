@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6fc4296a9935b3e4181c5d940d64d026
+  - enabled: 1
+    path: Assets/Scenes/PLPVisualization.unity
+    guid: 6dab049d3576d1e4d94d2548e037d18c
+  - enabled: 1
+    path: Assets/Scenes/Experiments/FFTAverageGraphs.unity
+    guid: 89b8b8c47ec7cc443be805d161e25849
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
