@@ -1,6 +1,7 @@
 # plp-beat-tracker
-<video src=".github/cigarettes-on-a-cold-night.mp4" width="100%" controls></video>
-[▶️ Watch with audio](.github/cigarettes-on-a-cold-night.mp4)
+<a href="https://imgur.com/a/I5phPlE">
+    <img src="https://i.imgur.com/J2JdQyO.gif" width="100%">
+</a>
 
 This is the source code of a project I've made where, after reading a research paper, I create visualizations of the different steps that are part of a PLP Beat Tracking algorithm.
 
