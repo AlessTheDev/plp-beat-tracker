@@ -1,5 +1,5 @@
 # plp-beat-tracker
-<a href="https://imgur.com/a/I5phPlE">
+<a href="https://youtu.be/XLxKawiX5rM">
     <img src="https://i.imgur.com/J2JdQyO.gif" width="100%">
 </a>
 
@@ -12,7 +12,7 @@ A Real-Time Beat Tracking System with Zero Latency and Enhanced Controllability
 Transactions of the International Society for Music Information Retrieval (TISMIR), 7(1): 213–227, 2024
 ```
 
-I explain how I coded the whole thing in a devlog in this repository: [./devlog/BeatTrackerDevlog.md](./devlog/BeatTrackerDevlog.md). Please check it out if you're interested in this topic!
+I explain how I coded the whole thing in a devlog on medium (I couldn't find any other website to upload it on): [INSERT LINK]. Please check it out if you're interested in this topic!
 
 ## How to try it out
 You can see the visualizations yourself by either opening the project in unity or by downloading the executable from itch io.
