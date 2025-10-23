@@ -1576,6 +1576,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1488519816686078040, guid: ba9c44b7d25848941915b29fc0e2a3c3, type: 3}
+      propertyPath: extensionsFilter.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1488519816686078040, guid: ba9c44b7d25848941915b29fc0e2a3c3, type: 3}
+      propertyPath: 'extensionsFilter.Array.data[0]'
+      value: .mp3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1488519816686078040, guid: ba9c44b7d25848941915b29fc0e2a3c3, type: 3}
+      propertyPath: 'extensionsFilter.Array.data[1]'
+      value: .wav
+      objectReference: {fileID: 0}
+    - target: {fileID: 1488519816686078040, guid: ba9c44b7d25848941915b29fc0e2a3c3, type: 3}
+      propertyPath: 'extensionsFilter.Array.data[2]'
+      value: .ogg
+      objectReference: {fileID: 0}
     - target: {fileID: 1488519816686078047, guid: ba9c44b7d25848941915b29fc0e2a3c3, type: 3}
       propertyPath: m_Pivot.x
       value: 0
