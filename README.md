@@ -12,13 +12,14 @@ A Real-Time Beat Tracking System with Zero Latency and Enhanced Controllability
 Transactions of the International Society for Music Information Retrieval (TISMIR), 7(1): 213–227, 2024
 ```
 
-I explain how I coded the whole thing in a devlog on medium (I couldn't find any other website to upload it on): [INSERT LINK]. Please check it out if you're interested in this topic!
+I explain how I coded the whole thing in a devlog on medium (I couldn't find any other website to upload it on): https://medium.com/@cupflowstudios/analyzing-real-time-audio-data-with-unity-plp-visualization-d550ebb72bcb. 
+Please check it out if you're interested in this topic!
 
 ## How to try it out
 You can see the visualizations yourself by either opening the project in unity or by downloading the executable from itch io.
 
 ### Executable
-Download the latest build from itch io: [LINK].
+Download the latest build from itch io: https://cupflow-studios.itch.io/plp-beat-tracker-visualization.
 
 Once you extract it and run the .exe file you should see:
 ![Menu](.github/menu.png)
