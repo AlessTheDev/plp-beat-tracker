@@ -44,3 +44,8 @@ Here you can set which song to play (after importing it)
 ![Audio Source component settings](.github/audio-source.png)
 And before you hit the play button you can edit some settings from this component:
 ![AudioAnalysis Settings](.github/settings.png)
+
+### Licensing & Credits
+Considering that, the [research](https://transactions.ismir.net/articles/10.5334/tismir.189) is public, and they also provide code under the MIT License, this project is licensed under the MIT License, except for the files located in the `Assets/Music` folder, you can see the LICENSE.MD file for details.
+
+In the project audio files, there's a song included called "Cigarettes on a cold night" that was made by Aether, you can check him out here: https://soundcloud.com/theoneaether/monochrome.
