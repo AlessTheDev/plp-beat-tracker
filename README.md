@@ -15,6 +15,8 @@ Transactions of the International Society for Music Information Retrieval (TISMI
 I explain how I coded the whole thing in a devlog on medium (I couldn't find any other website to upload it on): https://medium.com/@cupflowstudios/analyzing-real-time-audio-data-with-unity-plp-visualization-d550ebb72bcb. 
 Please check it out if you're interested in this topic!
 
+I'd also like to mention that I plan to read the [follow up paper](https://www.dafx.de/paper-archive/2024/papers/DAFx24_paper_23.pdf) the researchers published that will improve the overall accuracy of the project. Make sure to stay tuned for that!
+
 ## How to try it out
 You can see the visualizations yourself by either opening the project in unity or by downloading the executable from itch io.
 
@@ -46,6 +48,11 @@ And before you hit the play button you can edit some settings from this componen
 ![AudioAnalysis Settings](.github/settings.png)
 
 ### Licensing & Credits
-Considering that, the [research](https://transactions.ismir.net/articles/10.5334/tismir.189) is public, and they also provide code under the MIT License, this project is licensed under the MIT License, except for the files located in the `Assets/Music` folder, you can see the LICENSE.MD file for details.
+Considering that, the [research](https://transactions.ismir.net/articles/10.5334/tismir.189) is public, and they also provide [code](https://github.com/groupmm/real_time_plp) under the MIT License, this project is licensed under the MIT License, except for the files located in the `Assets/Music` folder, you can see the LICENSE.MD file for details.
 
 In the project audio files, there's a song included called "Cigarettes on a cold night" that was made by Aether, you can check him out here: https://soundcloud.com/theoneaether/monochrome.
+
+### Valuable resources
+Original paper: https://transactions.ismir.net/articles/10.5334/tismir.189
+Researcher's repository: https://github.com/groupmm/real_time_plp
+Follow up paper: https://www.dafx.de/paper-archive/2024/papers/DAFx24_paper_23.pdf 
